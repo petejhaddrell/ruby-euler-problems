@@ -1,5 +1,4 @@
 total = 0
-
 fab1 = 1
 fab2 = 2
 
